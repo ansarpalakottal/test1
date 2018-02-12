@@ -1,2 +1,7 @@
 ---
 ###Main.yml file for meta and role a
+---
+  - src: https://github.com/ansarpalakottal/test1.git
+    name: test1
+    version: master
+    scm: git
